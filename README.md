@@ -41,7 +41,10 @@ I obtained this dataset from kaggle. It contains 126 responses from Mercyhurst U
 
 5.	The respondents were asked to rate the statement ‘I find my life fulfilling’ with 1 being the least and 10 being the most. Majority gave a rating of 1 and of these, most perceived their choice of food to be unhealthy. Majority gave a rating below 5 and perceived their choice of food to be unhealthy.
 
-6.	On parental education;
+![](https://github.com/kayenymelody/STUDENT-S-DIETARY-CHOICES-WITH-EXCEL/blob/main/perception.png)
+
+   
+7.	On parental education;
           1 - less than high school 
           2 - high school degree 
           3 - some college degree 
@@ -51,7 +54,7 @@ Generally, regardless of the level of education, majority of the respondents rep
 ![](https://github.com/kayenymelody/STUDENT-S-DIETARY-CHOICES-WITH-EXCEL/blob/main/p_education.png)
 
 
-7. Except sophomores, all other study years reported to having consumed an unhealthy diet. Respondents in their senior year consumed more unhealthy food than their juniors. There is no clear association between the type of food consumed and the study year in this data set.
+8. Except sophomores, all other study years reported to having consumed an unhealthy diet. Respondents in their senior year consumed more unhealthy food than their juniors. There is no clear association between the type of food consumed and the study year in this data set.
 
 ![](https://github.com/kayenymelody/STUDENT-S-DIETARY-CHOICES-WITH-EXCEL/blob/main/study%20year.png)
 9. Majority of those dating reported that they consumed healthy food unlike their single counterparts or those who reported to have consumed the same food over and over again. 
