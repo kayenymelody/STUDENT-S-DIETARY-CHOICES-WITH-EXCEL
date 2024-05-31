@@ -52,6 +52,8 @@ Generally, regardless of the level of education, majority of the respondents rep
 
 
 7. Except sophomores, all other study years reported to having consumed an unhealthy diet. Respondents in their senior year consumed more unhealthy food than their juniors. There is no clear association between the type of food consumed and the study year in this data set.
-8. Majority of those dating reported that they consumed healthy food unlike their single counterparts or those who reported to have consumed the same food over and over again. 
+
+![](https://github.com/kayenymelody/STUDENT-S-DIETARY-CHOICES-WITH-EXCEL/blob/main/study%20year.png)
+9. Majority of those dating reported that they consumed healthy food unlike their single counterparts or those who reported to have consumed the same food over and over again. 
 
 
