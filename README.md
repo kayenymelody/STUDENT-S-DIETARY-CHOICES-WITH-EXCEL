@@ -33,6 +33,8 @@ I obtained this dataset from kaggle. It contains 126 responses from Mercyhurst U
 ## DATA ANALYSIS, VISUALISATION AND CONCLUSIONS
 1. Those who cook a couple of times a week and whenever they can are responsible for the highest gpa. Those who cook only during holidays and whenever they can are responsible for the lowest gpa. Those who cooked every day, only during holidays and those who never cook have a lower inter quartile range  compared to the other two categories but considering the fact that those who cook everyday have more students scoring above the average gpa of 3.4,cooking everyday could be associated with having a higher gpa.
 
+![](https://github.com/kayenymelody/STUDENT-S-DIETARY-CHOICES-WITH-EXCEL/blob/main/cooking.png)
+
 3.	Most of the respondents had the perception that their body size was just right. Those who thought they were overweight, slightly overweight or slim considered the type of food they consumed to be unhealthy while those who considered themselves to be fit/just right did the opposite. Reasons for consuming unhealthy food could include “inability to gain weight by slim people, fulfilling cravings and their availability among others.
 
 4.	The respondents were asked to rate the statement ‘I find my life fulfilling’ with 1 being the least and 10 being the most. Majority gave a rating of 1 and of these, most perceived their choice of food to be unhealthy. Majority gave a rating below 5 and perceived their choice of food to be unhealthy.
